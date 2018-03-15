@@ -12,7 +12,7 @@ include(SHARED_PATH . '/public_header.php');
 
 
      <br>
-     <h2> Welcome to the Blog Manager</h2>
+     <h2> Welcome to the Invoice Manager</h2>
 
 
    </div>
